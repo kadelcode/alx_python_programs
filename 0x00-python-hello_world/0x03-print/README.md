@@ -1,5 +1,5 @@
 ### 3-print_number.py
--	A complete program for this (source code)[] in order to print the integer stored in the variable _number_, followed by _Battery street_, followed by a new line
+-	A complete program for this [source code](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py) in order to print the integer stored in the variable _number_, followed by _Battery street_, followed by a new line
 	-	You can find the source code (here)[]
 	-	The output of the script should be:
 		-	The number, followed by _Battery street_,
