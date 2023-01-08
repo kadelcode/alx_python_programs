@@ -7,5 +7,5 @@
 	-	Prototype: _int check_cyle(listint_t *list);_
 	-	Return: *0* if there is no cycle, *1* if there is a cycle
 
-Requirements:
+-	Requirements:
 	-	Only these functions are allowed: _write_, _printf_, _putchar_, _puts_, _malloc_, _free_
