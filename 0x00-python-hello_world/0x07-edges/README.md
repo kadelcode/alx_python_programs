@@ -1,5 +1,5 @@
 ### 7-edges.py
--	Complete program for this [source code]()
+-	Complete program for this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
 	-	You are not allowed to use any loops or conditional statements
 	-	Your program should be exactly 8 lines long
 	-	_word_first_3_ should contain the first 3 letters of the variable _word_
