@@ -6,4 +6,4 @@
 		-	Followed by a new line
 	-	You are not allowed to cast the variable _number_ into a string
 	-	Your code must be 3 lines long
-	-	You have to use f-strings (tips)[https://realpython.com/python-f-strings/]
+	-	You have to use f-strings [tips](https://realpython.com/python-f-strings/)
