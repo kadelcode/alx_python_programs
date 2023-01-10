@@ -33,7 +33,7 @@ def mul(a, b):
     Returns:
         The return value. a / b
     """
-    return int(a / b)
+    return int(a * b)
 
 def div(a, b):
     """My division function
