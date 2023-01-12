@@ -3,5 +3,5 @@
 	-	Prototype: *def common_elements(set_1, set_2):*
 	-	You are not allowed to import any module
 
-### 3-common_elements.py
+### 3-main.py
 -	Main file to test our function
