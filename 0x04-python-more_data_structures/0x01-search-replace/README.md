@@ -5,3 +5,6 @@
 	-	*search* is the element to replace in the list
 	-	*replace* is the new element
 	-	You are not allowed to import any module
+	
+### 1-main.py
+	-	File to test the function
