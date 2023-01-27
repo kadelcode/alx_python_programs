@@ -6,13 +6,13 @@
 class Square:
     """Defines a class Square"""
 
-    def __init__(self, __size):
+    def __init__(self, size=0):
         """Initializes class parameter
         Args:
             size (int): The size of the new square
 
         """
-        if not isintance(size, int):
+        if not isinstance(size, int):
             raise TypeError("size must be an integer")
         elif size < 0:
             raise ValueError("size must be >= 0")
