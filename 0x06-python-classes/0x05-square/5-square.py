@@ -4,6 +4,8 @@ Private instance attribute: size
 Public instance method: def area(self)
 Public instance method: def my_print(self)
 """
+
+
 class Square:
     """
     Defines a square
