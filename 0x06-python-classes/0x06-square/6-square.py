@@ -12,3 +12,11 @@ class Square:
         """initializes class attributes"""
         self.__size = size
         self.position = position
+
+    def size(self):
+        """Getter to retrieve data"""
+        return self.__size
+
+    def size(self, value):
+        """Setter to set data"""
+        self.__size = value
