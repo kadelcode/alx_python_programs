@@ -18,10 +18,12 @@ class Square:
             raise ValueError("size must be >= 0")
         self.__size = size
 
+    @property
     def size(self):
         """gets the size"""
         return self.__size
 
+    @size.setter
     def size(self, value):
         """sets the size"""
         self.__size = value
@@ -32,6 +34,15 @@ class Square:
 
     def my_print(self):
         """prints character #"""
-        print("#")
+
+        i = 0
+
+        while (i < self.__size):
+            j = 0
+            while (j < self.__size):
+                print("#", end="")
+                j += 1
+            print()
+            i += 1
         if self.__size == 0:
             print()
