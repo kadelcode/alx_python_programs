@@ -1,0 +1,6 @@
+- Write a class ```Square``` that defines a square by: (based on ```5-square.py```)
+	- Private instance attribute: ```size```:
+		- property ```def size(self):``` to retrieve it
+		- property setter ```def size(self, value):``` to set it:
+			- ```size``` must be an integer, otherwise raise a ```TypeError``` exception with the message ```size must be an integer```
+			- If ```size``` is less than ```0```, raise a ```ValueError``` exception with the message ```size must be >= 0
