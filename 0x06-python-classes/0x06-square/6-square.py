@@ -20,3 +20,11 @@ class Square:
     def size(self, value):
         """Setter to set data"""
         self.__size = value
+
+    def position(self):
+        """Get the position"""
+        return self.__position
+
+    def position(self, value):
+        """Set the position"""
+        self.__position = value
