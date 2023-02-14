@@ -1,0 +1,6 @@
+What does this script print?
+```
+a = (1)
+b = (1)
+a is b
+```
