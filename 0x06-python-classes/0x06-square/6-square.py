@@ -11,7 +11,7 @@ class Square:
     def __init__(self, size=0, position=(0, 0)):
         """initializes class attributes"""
         self.__size = size
-        self.position = position
+        self.__position = position
 
     def size(self):
         """Getter to retrieve data"""
