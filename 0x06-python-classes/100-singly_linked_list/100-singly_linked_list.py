@@ -34,3 +34,14 @@ class Node:
         if not isinstance(value, Node) and value is not None:
             return TypeError("next_node must be a Node object")
         self.__next_node = value
+
+"""
+A SinglyLinkeList class
+"""
+
+
+class SinglyLinkedList:
+    """ A class that defines a singly linked list """
+    def __init__(self):
+        """ Initialize the class attribute """
+        self.__head = None
