@@ -12,3 +12,10 @@
 	- Instantiation with ```data``` and ```next_node: def __init__(self, data, next_node=None):```
 
 - And, write a class ```SinglyLinkedList``` that defines a singly linked list by:
+	- Private instance attribute: ```head``` (no setter or getter)
+	- Simple instantiation: ```def __init__(self):```
+	- Should be printable:
+		- print the entire list in stdout
+		- one node number by line
+	- Public instance method: ```def sorted_insert(self, value):``` that inserts a new ```Node``` into the correct sorted position in the list (increasing order)
+	- You are not allowed to import any module
