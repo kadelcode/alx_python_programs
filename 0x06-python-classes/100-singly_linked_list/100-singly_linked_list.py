@@ -27,3 +27,10 @@ class Node:
     def next_node(self):
         """ gets the next node """
         return self.__next_node
+
+    @next_node.setter
+    def next_node(self, value):
+        """ sets the next node """
+        if is not isinstance(next_node, Node):
+            return TypeError("next_node must be a Node object")
+        self.__next_node = value
