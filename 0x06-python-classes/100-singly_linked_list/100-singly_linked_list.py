@@ -10,3 +10,13 @@ class Node:
         """ Initializes class attributes """
         self.__data = data
         self.__next_node = next_node
+
+    @property
+    def data(self):
+        """ gets the data """
+        return self.__data
+
+    @data.setter
+    def data(self, value):
+        """ sets the data """
+        self.__data = value
