@@ -5,4 +5,4 @@
 class LockedClass:
     """ A class with no class or object attribute """
 
-    __slots__ = "firstname"
+    __slots__ = ["first_name"]
