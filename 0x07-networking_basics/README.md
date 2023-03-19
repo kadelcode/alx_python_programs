@@ -19,7 +19,7 @@
 - ```netstat```
 - ```ping```
 
-## Learning Objectives
+# Learning Objectives
 
 ## OSI Model
 - What it is
