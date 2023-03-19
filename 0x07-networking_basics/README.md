@@ -15,7 +15,7 @@
 - [What is ping/ICMP](https://en.wikipedia.org/wiki/Ping_%28networking_utility%29)
 - [Positional parameters](https://wiki.bash-hackers.org/scripting/posparams)
 
-** man or help**:
+**man or help**:
 - ```netstat```
 - ```ping```
 
