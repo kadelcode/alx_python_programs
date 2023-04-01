@@ -1,3 +1,4 @@
+Import in ```hbtn_0c_0``` database this table dump: [download](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/272/temperatures.sql)
 Write a script that displays the average temperature(Fahrenheit) by city ordered by temperature(descending).
 ```
 guillaume@ubuntu:~/$ cat 101-avg_temperatures.sql | mysql -hlocalhost -uroot -p hbtn_0c_0
