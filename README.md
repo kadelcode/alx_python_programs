@@ -7,4 +7,4 @@ Read or watch the below resources in the order presented
 
 
 # Resources
-- [Object Oriented Programming]()(*Read everything until the paragraph "Inheritance" excluded. You do NOT have to learn about class attributes, ```classmethod``` and ```staticmethod``` yet)
+- [Object Oriented Programming]()(*Read everything until the paragraph "Inheritance" excluded. You do NOT have to learn about class attributes, ```classmethod``` and ```staticmethod``` yet*)
