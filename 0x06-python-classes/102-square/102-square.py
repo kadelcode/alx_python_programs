@@ -40,3 +40,7 @@ class Square:
     def __lt__(self, other):
         """Defines the < comparison to a square"""
         return self.area() < other.area()
+
+    def __le__(self, other):
+        """Defines the <= comparison to a square"""
+        return self.area() <= other.area()
