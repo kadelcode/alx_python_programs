@@ -50,3 +50,4 @@ Disassembly of circumference:
              16 BINARY_MULTIPLY
              17 RETURN_VALUE
 ```
+- Tip: [Python bytecode](https://docs.python.org/3.4/library/dis.html)
