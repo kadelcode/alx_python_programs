@@ -7,3 +7,6 @@ def add_integer(a, b=98):
 
     if type(a) == float:
         a = int(a)
+
+    if not isinstance(a, int):
+        raise TypeError('a must be an integer')
