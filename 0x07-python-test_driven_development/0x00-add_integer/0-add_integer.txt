@@ -19,3 +19,29 @@ Usage
 ::
     >>> add_integer(2, -4)
     -2
+
+Note that floats are casted to integers before addition.
+
+::
+
+    >>> add_integer(2.9, 0.2)
+    2
+
+::
+
+    >>> add_integer(-2.9, -0.2)
+    -2
+
+Floating and non-floating point values can be combined
+
+::
+
+    >>> add_integer(2.3, -3)
+    -1
+
+The second argument is optional - by default, it is 98.
+
+::
+
+    >>> add_integer(2)
+    100
