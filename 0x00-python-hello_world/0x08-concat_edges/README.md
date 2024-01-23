@@ -4,3 +4,10 @@
 	-	Program is exactly 5 lines long
 	-	New variables aren't created
 	-	String literals aren't used 
+```
+guillaume@ubuntu:~/py/0x00$ ./8-concat_edges.py
+object-oriented programming with Python
+guillaume@ubuntu:~/py/0x00$ wc -l 8-concat_edges.py
+5 8-concat_edges.py
+guillaume@ubuntu:~/py/0x00$
+```
