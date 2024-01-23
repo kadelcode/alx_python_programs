@@ -8,3 +8,9 @@
 		-	followed by a new line
 	-	You are not allowed to use any loops or conditional statement
 	-	Your program should be maximum 5 lines long
+```
+guillaume@ubuntu:~/py/0x00$ ./5-print_string.py 
+Holberton SchoolHolberton SchoolHolberton School
+Holberton
+guillaume@ubuntu:~/py/0x00$
+```
