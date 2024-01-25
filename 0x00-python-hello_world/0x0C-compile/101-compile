@@ -1,0 +1,14 @@
+#!/usr/bin/python3
+import os
+import py_compile
+
+# Get the python file name from the environment variable
+pyfile = os.environ.get("PYFILE")
+
+# Construct the output filename with c extension
+output_filename = pyfile + "c"
+
+
+# compile the python file
+print(f"Compiling {pyfile} ...")
+py_compile.compile(pyfile, cfile=output_filename)
