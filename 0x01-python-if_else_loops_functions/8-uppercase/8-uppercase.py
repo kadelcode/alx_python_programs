@@ -4,6 +4,7 @@
 A module containing `uppercase` function
 """
 
+
 def uppercase(str):
     """
     This function prints a string in uppercase
@@ -21,4 +22,3 @@ def uppercase(str):
             c = chr(ord(c) - ord('a') + ord('A'))
         print(c, end="")
     print()
-
