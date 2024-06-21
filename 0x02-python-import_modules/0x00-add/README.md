@@ -1,14 +1,14 @@
--	A program that import the function _def add(a,b):_ from the file _add_0.py_ and prints the result of the addition *1 + 2 = 3*
+-	A program that import the function ```def add(a,b):``` from the file ```add_0.py``` and prints the result of the addition ```1 + 2 = 3```
 	-	You have to use _print_ function with string format to display integers
 	-	You have to assign:
-		-	The value _1_ to a variable called _a_
-		-	The value _2_ to a variable called _b_
-		-	And use those two variables as arguments when calling the functions _add_ and _print_
-	-	*a* and *b* must be defined in 2 different lines: _a = 1_ and another _b = 2_
-	-	Your program should print: *<a value> + <b value> = <add(a, b) value>* followed with a new line
-	-	You can only use the word _add_0_ once in your code
-	-	You are not allowed to use _*_ for import or __import__
-	-	Your code should not be executed when imported - by using __import__
+		-	The value ```1``` to a variable called ```a```
+		-	The value ```2``` to a variable called ```b```
+		-	And use those two variables as arguments when calling the functions ```add``` and ```print```
+	-	*a* and *b* must be defined in 2 different lines: ```a = 1``` and another ```b = 2```
+	-	Your program should print: ```<a value> + <b value> = <add(a, b) value>``` followed with a new line
+	-	You can only use the word ```add_0``` once in your code
+	-	You are not allowed to use ```*``` for import or ```__import__```
+	-	Your code should not be executed when imported - by using ```__import__```, like the example below
 ```
 guillaume@ubuntu:~/0x02$ cat add_0.py
 #!/usr/bin/python3
