@@ -1,4 +1,4 @@
-Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
+Write the Python function ```def magic_calculation(a, b):``` that does exactly the same as the following Python bytecode:
 ```
   3           0 LOAD_CONST               1 (0)
               3 LOAD_CONST               2 (('add', 'sub'))
